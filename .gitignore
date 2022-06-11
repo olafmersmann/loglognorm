@@ -1,0 +1,6 @@
+*.Rcheck
+*.tar.gz
+src/*.o
+src/*.so
+.Rhistory
+.RData

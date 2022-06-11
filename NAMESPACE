@@ -1,0 +1,13 @@
+useDynLib(loglognorm, 
+          do_dloglognorm,
+          do_ploglognorm,
+          do_qloglognorm,
+          do_mloglognorm)
+importFrom("stats", "runif")
+export(dloglognorm)
+export(ploglognorm)
+export(qloglognorm)
+export(rloglognorm)
+export(mloglognorm)
+export(eloglognorm)
+export(vloglognorm)
