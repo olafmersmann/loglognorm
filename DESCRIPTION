@@ -1,6 +1,6 @@
 Package: loglognorm
 Version: 1.0.2
-Title: Double log normal distribution functions
+Title: Double Log Normal Distribution Functions
 Description: Functions to sample from the double log normal distribution and calculate the density, distribution and quantile functions.
 Authors@R: c(person("Olaf", "Mersmann", role=c("aut", "cre"), email="olafm@p-value.net"),
              person("Heike", "Trautmann", role=c("ctb"), email="trautmann@wi.uni-muenster.de"),
